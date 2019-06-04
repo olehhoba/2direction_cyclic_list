@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//wuthout edition
 struct Node
 {
     int data;
